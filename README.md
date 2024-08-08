@@ -57,8 +57,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/optuna-ray-hyperparam-tuning.git
-   cd optuna-ray-hyperparam-tuning
+   git clone https://github.com/CodeRabbitHub/hyperparam-optimization-with-ray-optuna.git
+   cd hyperparam-optimization-with-ray-optuna
    ```
 
 2. Install the dependencies:
